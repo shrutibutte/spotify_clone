@@ -1,0 +1,8 @@
+app have two component player and login
+player have sidebar and header
+
+Context API
+Material UI
+FlexBox (for css)
+User Authentication
+spotify API
